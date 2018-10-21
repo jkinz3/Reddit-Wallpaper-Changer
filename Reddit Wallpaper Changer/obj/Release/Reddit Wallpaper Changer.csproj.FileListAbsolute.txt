@@ -1,0 +1,18 @@
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\bin\Release\Reddit Wallpaper Changer.exe.config
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\bin\Release\Reddit Wallpaper Changer.exe
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\bin\Release\Reddit Wallpaper Changer.pdb
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\bin\Release\Newtonsoft.Json.dll
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\bin\Release\System.Data.SQLite.dll
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\bin\Release\System.Data.SQLite.xml
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit Wallpaper Changer.csprojAssemblyReference.cache
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit_Wallpaper_Changer.PopupInfo.resources
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit_Wallpaper_Changer.RWC.resources
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit_Wallpaper_Changer.Properties.Resources.resources
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit_Wallpaper_Changer.SearchWizard.resources
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit_Wallpaper_Changer.Update.resources
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit_Wallpaper_Changer.WallpaperTypes.resources
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit Wallpaper Changer.csproj.GenerateResource.cache
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit Wallpaper Changer.csproj.CoreCompileInputs.cache
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit Wallpaper Changer.csproj.CopyComplete
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit Wallpaper Changer.exe
+D:\Git\Reddit-Wallpaper-Changer\Reddit Wallpaper Changer\obj\Release\Reddit Wallpaper Changer.pdb

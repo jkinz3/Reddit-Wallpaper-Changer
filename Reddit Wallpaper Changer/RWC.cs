@@ -2853,6 +2853,18 @@ namespace Reddit_Wallpaper_Changer
                 Logging.LogMessageToFile("Error rebuilding thumbnail cache: " + ex.Message, 1);
             }
         }
+
+        private void btnChangeWallpaper_Click(object sender, EventArgs e)
+        {
+            wallpaperChangeTimer.Enabled = false;
+            wallpaperChangeTimer.Enabled = true;
+            changeWallpaperTimer.Enabled = true;
+        }
+
+        private void contextMenuStrip_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }
 
